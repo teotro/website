@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me Theo, my efforts are futile at this point) and I am a fourth year PhD student in Electrical Engineering at Yale University, where I am fortunate enough to be advised by Professor [Jakub Szefer](https://caslab.csl.yale.edu/~jakub/). My current research interests include the broad area of hardware security, specializing (but not limited) on uncovering security vulnerabilities and building defenses for quantum computers.
+I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me Theo, my efforts are futile at this point) and I am a fifth year PhD student in Electrical Engineering at Yale University, where I am fortunate enough to be advised by Professor [Jakub Szefer](https://caslab.csl.yale.edu/~jakub/). My current research interests include the broad area of hardware security, specializing (but not limited) on uncovering security vulnerabilities and building defenses for quantum computers.
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
 ## News
-- <span style="color:blue"> [Personal News]: </span> I was selected for the **ACM Student Research Competition** at **MICRO 2024**. See you in Austin, Texas!
+<!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->
+- <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
+- <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!
+- <span style="color:green"> [Paper Acceptance]: </span> Our paper "Quantum Circuit Cutting: A Security Methodology" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2025 (QCE25)**. See you in Albuquerque, New Mexico!
 - <span style="color:blue"> [Personal News]: </span> I was selected to present my thesis in the **Doctoral Symposium** at **ACM CCS 2024**. See you in Salt Lake City, Utah!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Protecting Quantum Computers with a Trusted Controller" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2024 (QCE24)**. See you in Montréal, Canada!
 - <span style="color:blue"> [Personal News]: </span> For summer 2024, I will be joining Caterpillar in Chicago, Illinois, as a Corporate Intern in ML/AI and Gen AI models.

@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me Theo, my efforts are futile at this point) and I am a fifth year PhD student in Electrical Engineering at Yale University, where I am fortunate enough to be advised by Professor [Jakub Szefer](https://caslab.csl.yale.edu/~jakub/). My current research interests include the broad area of hardware security, specializing (but not limited) on uncovering security vulnerabilities and building defenses for quantum computers.
+I'm Theodoros Trochatos (in Greek they call me Θοδωρή, but you can call me Theo, my efforts are futile at this point) and I am a fifth year PhD student in Electrical Engineering at Yale University, where I am fortunate enough to be advised by Professor [Jakub Szefer](https://caslab.io/jakub/). My current research interests include the broad area of quantum computing architecture and hardware security, specializing (but not limited) on uncovering security vulnerabilities and building defenses for quantum computers. I am also actively interested in QEC-aware compilers.
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
 ## News
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->
+- <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia!
+- <span style="color:blue"> [Personal News]: </span> I was selected to attend the IBM Quantum Developer Conference in Atlanta, GA!
 - <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
 - <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Quantum Circuit Cutting: A Security Methodology" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2025 (QCE25)**. See you in Albuquerque, New Mexico!

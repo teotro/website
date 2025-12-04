@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Theodoros Trochatos and I am a fifth year PhD student in Electrical and Computer Engineering at Yale University, where I am fortunate enough to be advised by Professor [Jakub Szefer](https://caslab.io/jakub/). My research establishes the architectural foundations for trustworthy hybrid quantum-classical computing , bridging the fields of computer architecture, hardware security, and quantum systems. I focus on uncovering vulnerabilities and building secure architectures for both NISQ and fault-tolerant quantum computing (FTQC) systems. Separately, I am also actively interested in QEC-aware compilers and decoders.
+I'm Theodoros, a fifth year PhD student in Electrical and Computer Engineering at Yale University, advised by Professor [Jakub Szefer](https://caslab.io/jakub/). My research establishes the architectural foundations for trustworthy hybrid quantum-classical computing , bridging the fields of computer architecture, hardware security, and quantum systems. I focus on uncovering vulnerabilities and building secure architectures for both NISQ and fault-tolerant quantum computing (FTQC) systems. Separately, I am also actively interested in QEC-aware compilers and decoders.
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 

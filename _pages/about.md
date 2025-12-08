@@ -11,13 +11,14 @@ I'm Theodoros, a fifth year PhD student in Electrical and Computer Engineering a
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
-## News
+## News 2025
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia!
 - <span style="color:blue"> [Personal News]: </span> I was selected to attend the IBM Quantum Developer Conference in Atlanta, GA!
 - <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
 - <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Quantum Circuit Cutting: A Security Methodology" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2025 (QCE25)**. See you in Albuquerque, New Mexico!
+## News 2024
 - <span style="color:blue"> [Personal News]: </span> I was selected to present my thesis in the **Doctoral Symposium** at **ACM CCS 2024**. See you in Salt Lake City, Utah!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Protecting Quantum Computers with a Trusted Controller" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2024 (QCE24)**. See you in Montréal, Canada!
 - <span style="color:blue"> [Personal News]: </span> For summer 2024, I will be joining Caterpillar in Chicago, Illinois, as a Corporate Intern in ML/AI and Gen AI models.
@@ -25,13 +26,12 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 - <span style="color:green"> [Paper Acceptance]: </span> [CASQUE](https://caslab.io/publications/trochatos2024dynamic.pdf) paper got accepted to **IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2024**.
 - <span style="color:green"> [Paper Acceptance]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) got accepted to **International Symposium on Secure and Private Execution Environment Design (SEED) 2024**.
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
+## News 2023
 - <span style="color:red"> [Paper Award]: </span> Our paper [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288020) is the winner of the **Best of CAL** for 2023 and will be presented in **International Symposium on High-Performance Computer Architecture (HPCA) 2024**. See you in Edinburgh, Scotland!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper [Covert-channels in FPGA-enabled SmartSSDs](https://dl.acm.org/doi/pdf/10.1145/3635312) got accepted to **ACM Transactions on Reconfigurable Technology and Systems** journal and will appear during the main program of **FPT 2023** in Yokohama, Japan.
 - <span style="color:green"> [Paper acceptance]: </span> [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1028802) accepted in the **IEEE Computer Architecture Letters 2023**.
 - <span style="color:blue"> [Personal News]: </span> By the end of summer 2023, I was awarded the **Gerondelis Foundation Award** and the **A.G. Leventis Foundation Scholarship**!
 - <span style="color:green">[Paper acceptance]:</span> [Design of Quantum Computer Antivirus](https://caslab.csl.yale.edu/publications/deshpande2023design.pdf) got accepted to **HOST 2023**.
-- <span style="color:blue"> [Personal News]: </span> I am attending the [ACACES 2022](https://www.hipeac.net/acaces/2022/#/) summer school in Fiuggi, Italy!
-- <span style="color:green">[Paper acceptance]:</span> Our paper, [Towards and antivirus for quantum computers](https://caslab.csl.yale.edu/publications/deshpande2022towards.pdf), got accepted to **HOST 2022**.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 

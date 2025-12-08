@@ -18,6 +18,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 - <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
 - <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Quantum Circuit Cutting: A Security Methodology" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2025 (QCE25)**. See you in Albuquerque, New Mexico!
+
 ## News 2024
 - <span style="color:blue"> [Personal News]: </span> I was selected to present my thesis in the **Doctoral Symposium** at **ACM CCS 2024**. See you in Salt Lake City, Utah!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Protecting Quantum Computers with a Trusted Controller" got accepted to **IEEE International Conference on Quantum Computing and Engineering 2024 (QCE24)**. See you in Montréal, Canada!
@@ -26,6 +27,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 - <span style="color:green"> [Paper Acceptance]: </span> [CASQUE](https://caslab.io/publications/trochatos2024dynamic.pdf) paper got accepted to **IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2024**.
 - <span style="color:green"> [Paper Acceptance]: </span> [Extending and Defending Attacks on Reset Operations in Quantum Computers](https://arxiv.org/pdf/2309.06281) got accepted to **International Symposium on Secure and Private Execution Environment Design (SEED) 2024**.
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
+
 ## News 2023
 - <span style="color:red"> [Paper Award]: </span> Our paper [A Quantum Computer Trusted Execution Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288020) is the winner of the **Best of CAL** for 2023 and will be presented in **International Symposium on High-Performance Computer Architecture (HPCA) 2024**. See you in Edinburgh, Scotland!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper [Covert-channels in FPGA-enabled SmartSSDs](https://dl.acm.org/doi/pdf/10.1145/3635312) got accepted to **ACM Transactions on Reconfigurable Technology and Systems** journal and will appear during the main program of **FPT 2023** in Yokohama, Japan.

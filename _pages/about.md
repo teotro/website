@@ -11,7 +11,7 @@ I'm Theodoros, a fifth year PhD student in Electrical and Computer Engineering a
 
 Before joining Yale, I received my bachelor's degree in Electrical and Computer Engineering from the National Technical University of Athens in Greece. I will be forever grateful to have been supervised by Prof. [Dionisios Pnevmatikatos](https://www.ece.ntua.gr/en/staff/474) and Prof. [Vasilis Karakostas](https://cgi.di.uoa.gr/~vkarakos/) in my diploma thesis studying side-channels attacks due to speculative execution and their defenses.
 
-# I am on the tenure-track faculty job market.
+### I am on the tenure-track faculty job market.
 
 ## News 2025
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->

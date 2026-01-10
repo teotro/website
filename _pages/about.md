@@ -15,10 +15,10 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 
 ## News 2025
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->
-<!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia! -->
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia!
+- <span style="color:blue"> [Personal news]: </span> I won the Best Presentation Award for "Tracing Framework for Fault-Tolerant Quantum Computers for Side-Channel Analysis and Beyond" at the 3rd Annual Quantum Computer Cybersecurity Symposium, held Nov. 6-7 at Northwestern University.
   <br>
-  <img src="images/theo_presenting.jpg" alt="Presentation" width="600">
+  <img src="images/theo_presenting.jpg" alt="Presentation_qccs" width="300">
 - <span style="color:blue"> [Personal News]: </span> I was selected to attend the IBM Quantum Developer Conference in Atlanta, GA!
 - <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
 - <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!

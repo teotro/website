@@ -18,7 +18,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia! -->
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia!
   <br>
-  ![Presentation](theo_presenting.jpg)
+  <img src="{{ '/images/theo_presenting.jpg' | relative_url }}" alt="Presentation" width="500">
 - <span style="color:blue"> [Personal News]: </span> I was selected to attend the IBM Quantum Developer Conference in Atlanta, GA!
 - <span style="color:blue"> [Personal News]: </span> I won the SandBoxAQ Research Excellence Scholarship!
 - <span style="color:blue"> [Personal News]: </span> I won the John F. Enders Research Grant!

@@ -21,7 +21,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
   <img src="images/theo_presenting.jpg" alt="Presentation_qccs" width="300"> -->
 - <span style="color:blue"> [Personal news]: </span> I won the Best Presentation Award for "Tracing Framework for Fault-Tolerant Quantum Computers for Side-Channel Analysis and Beyond" at the 3rd Annual Quantum Computer Cybersecurity Symposium, held Nov. 6-7 at Northwestern University.
   <div style="text-align: center; margin: 20px 0;">
-    <img src="images/theo_presenting.jpg"  alt="Presentation_qccs" width="400" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/theo_presenting.jpg"  alt="Presentation_qccs" width="450" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-style: italic; font-size: 0.8em; color: #555;">Receiving the Best Presentation Award at Northwestern University</p>
   </div>
 - <span style="color:blue"> [Personal News]: </span> I was selected to attend the IBM Quantum Developer Conference in Atlanta, GA!
@@ -39,7 +39,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
   <div style="text-align: center; margin: 20px 0;">
-    <img src="images/theo_3mt.jpeg"  alt="Presentation_3mt" width="400" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="images/theo_3mt.jpeg"  alt="Presentation_3mt" width="450" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-style: italic; font-size: 0.8em; color: #555;">Presenting at the Yale 3-Minute Thesis competition</p>
   </div>
 

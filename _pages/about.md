@@ -40,7 +40,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 - <span style="color:blue"> [Personal News]: </span> I won the [3-Minutes Thesis](https://gsas.yale.edu/3-minute-thesis-2024-final-round-competition) competition of the Engineering division at Yale and qualified for the final round!
   <div style="text-align: center; margin: 20px 0;">
     <img src="images/theo_3mt.jpeg"  alt="Presentation_3mt" width="400" style="border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-style: italic; font-size: 0.8em; color: #555;">Presenting my research on quantum security at the Yale 3-Minute Thesis competition</p>
+    <p style="font-style: italic; font-size: 0.8em; color: #555;">Presenting at the Yale 3-Minute Thesis competition</p>
   </div>
 
 ## News 2023

@@ -15,6 +15,7 @@ Before joining Yale, I received my bachelor's degree in Electrical and Computer 
 
 ## News 2025
 <!-- - <span style="color:green"> [Paper Acceptance]: </span> Our paper "Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes" is now on arXiv! -->
+- <span style="color:blue"> [Personal news]: </span> I have been selected to attend the 13th Heidelberg Laureate Forum in Germany! See you in September in Heidelberg!
 - <span style="color:green"> [Paper Acceptance]: </span> Our paper "[TraceQ](https://arxiv.org/pdf/2508.14533)" got accepted to **HPCA 2026**. See you in Sydney, Australia!
 <!-- - <span style="color:blue"> [Personal news]: </span> I won the Best Presentation Award for "Tracing Framework for Fault-Tolerant Quantum Computers for Side-Channel Analysis and Beyond" at the 3rd Annual Quantum Computer Cybersecurity Symposium, held Nov. 6-7 at Northwestern University.
   <br>
